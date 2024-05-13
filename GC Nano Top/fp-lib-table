@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "GC Nano Top")(type "KiCad")(uri "${KIPRJMOD}/GC Nano Top.pretty")(options "")(descr ""))
+  (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/Library.pretty")(options "")(descr ""))
+  (lib (name "footprints")(type "KiCad")(uri "U:/PCB/_Symbols and Footprints/ul_2171790001/KiCAD/2023-04-17_14-02-05/footprints.pretty")(options "")(descr ""))
+)

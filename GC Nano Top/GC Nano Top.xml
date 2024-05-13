@@ -1,0 +1,776 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>U:\PCB\GC Nano Top\GC Nano Top.kicad_sch</source>
+    <date>5/14/2023 6:03:36 AM</date>
+    <tool>Eeschema (6.0.11)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>GC Nano Top.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GC Nano Top.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>70899562-cd20-4810-84f3-8d429b474505</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GC Nano Top.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9cff2c3b-9710-4265-8159-b615bbb67fa3</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GC Nano Top.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e83fa041-2c7a-4be2-8b78-b3b97795daf0</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GC Nano Top.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8e8c4ada-dac9-48b6-bc62-8ea9b899a74e</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GC Nano Top.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>86d8a715-2b4a-44e3-8084-128a23b1ec43</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GC Nano Top.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cb3d58aa-f319-46be-a91b-4dd32fa3fc82</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GC Nano Top.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>864a0825-fa30-4b0b-956e-dab5b525488b</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GC Nano Top.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1bf35c20-ac96-49ee-95cb-2f7130cfe1dd</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GC Nano Top.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5b33acf9-ee49-4fca-892f-165cad520ecf</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GC Nano Top.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c5e12e8e-d507-405a-83b4-54825fca9c4c</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>USB_C_Receptacle_USB2.0</value>
+      <footprint>footprints:2171790001_MOL</footprint>
+      <datasheet>https://www.usb.org/sites/default/files/documents/usb_type-c.zip</datasheet>
+      <libsource lib="Connector" part="USB_C_Receptacle_USB2.0" description="USB 2.0-only Type-C Receptacle connector"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GC Nano Top.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2254f2bb-7608-4be9-9134-be3b1356a1b8</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>MEM2075-00-140-01-A</value>
+      <footprint>MEM2075-00-140-01-A:GCT_MEM2075-00-140-01-A</footprint>
+      <fields>
+        <field name="MANUFACTURER">GCT</field>
+        <field name="PARTREV">A</field>
+        <field name="STANDARD">Manufacturer recommendations</field>
+      </fields>
+      <libsource lib="MEM2075-00-140-01-A" part="MEM2075-00-140-01-A" description=""/>
+      <property name="MANUFACTURER" value="GCT"/>
+      <property name="PARTREV" value="A"/>
+      <property name="STANDARD" value="Manufacturer recommendations"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GC Nano Top.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6cb131cc-3d85-4714-9b4c-0692b1f180d0</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>PMPB17EP</value>
+      <footprint>GC Nano Top:PMPB17EP</footprint>
+      <libsource lib="GC Nano Top" part="PMPB17EP" description="P-MOSFET transistor, gate/source/drain"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GC Nano Top.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>912e98ab-d99f-4c9b-8d58-97498763fb1c</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>5.1k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GC Nano Top.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>57d67b2e-289f-424d-aa0f-6c0755babee6</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>5.1k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GC Nano Top.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>94257994-979f-43f2-b504-d8811bcd3779</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>330</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GC Nano Top.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>27bea762-599e-414c-9afb-9f26eb97c12c</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GC Nano Top.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>68e17417-b35e-48ec-97b5-0136c8015056</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>330</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GC Nano Top.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>807ed3b0-68b0-47d5-b4aa-722f4885f160</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GC Nano Top.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>12af98c4-b0be-4b64-8ded-b74da2529802</tstamps>
+    </comp>
+    <comp ref="SW1">
+      <value>SW_Push</value>
+      <footprint>Button_Switch_THT:SW_PUSH_6mm</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GC Nano Top.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a52e5715-3b51-44e7-abec-6ebef3c0a7e8</tstamps>
+    </comp>
+    <comp ref="SW2">
+      <value>SW_Push</value>
+      <footprint>Button_Switch_THT:SW_PUSH_6mm</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GC Nano Top.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4b9d74a0-ff60-4098-b445-17028ad3738c</tstamps>
+    </comp>
+    <comp ref="SW3">
+      <value>SW_Push</value>
+      <footprint>Button_Switch_THT:SW_PUSH_6mm</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GC Nano Top.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>163a3f69-3405-4a75-8f60-10158c060f03</tstamps>
+    </comp>
+    <comp ref="TP1">
+      <value>GND</value>
+      <footprint>TestPoint:TestPoint_Pad_2.0x2.0mm</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GC Nano Top.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fe381853-b40b-4e5d-8f3e-07e78ddc74c4</tstamps>
+    </comp>
+    <comp ref="TP2">
+      <value>5V_SW</value>
+      <footprint>TestPoint:TestPoint_Pad_2.0x2.0mm</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GC Nano Top.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c5e46529-b092-4008-ae17-1f686704a2cf</tstamps>
+    </comp>
+    <comp ref="TP3">
+      <value>D+Wii</value>
+      <footprint>TestPoint:TestPoint_Pad_1.5x1.5mm</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GC Nano Top.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>126b2d46-65a8-46b5-a303-b4d359588cb3</tstamps>
+    </comp>
+    <comp ref="TP4">
+      <value>D-Wii</value>
+      <footprint>TestPoint:TestPoint_Pad_1.5x1.5mm</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GC Nano Top.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c2570406-ea72-425c-88fa-2e4134ac4370</tstamps>
+    </comp>
+    <comp ref="TP5">
+      <value>Sync</value>
+      <footprint>TestPoint:TestPoint_Pad_2.0x2.0mm</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GC Nano Top.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b76ae429-df65-4e98-ba28-5087dbd7345c</tstamps>
+    </comp>
+    <comp ref="TP6">
+      <value>Reset</value>
+      <footprint>TestPoint:TestPoint_Pad_2.0x2.0mm</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GC Nano Top.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0f294ece-949c-44ab-a7d6-4d0518a9cdb8</tstamps>
+    </comp>
+    <comp ref="TP7">
+      <value>5V</value>
+      <footprint>TestPoint:TestPoint_Pad_2.0x2.0mm</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GC Nano Top.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1fbf5977-c614-46f1-b4dd-2da6235a487a</tstamps>
+    </comp>
+    <comp ref="TP8">
+      <value>3V3</value>
+      <footprint>TestPoint:TestPoint_Pad_2.0x2.0mm</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GC Nano Top.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4bbea75d-a190-44cf-810c-98b692b140d5</tstamps>
+    </comp>
+    <comp ref="TP9">
+      <value>GND</value>
+      <footprint>TestPoint:TestPoint_Pad_2.0x2.0mm</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GC Nano Top.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>36c446b0-5b84-47db-8b62-b87d674059f2</tstamps>
+    </comp>
+    <comp ref="TP10">
+      <value>3V3</value>
+      <footprint>TestPoint:TestPoint_Pad_2.0x2.0mm</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GC Nano Top.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>312b8a13-6807-49a2-8f9a-9780bc90ab78</tstamps>
+    </comp>
+    <comp ref="TP11">
+      <value>GND</value>
+      <footprint>TestPoint:TestPoint_Pad_2.0x2.0mm</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GC Nano Top.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>90981252-8ded-41d5-b534-03c5fa80b6cc</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>GL823K-HCY04</value>
+      <footprint>Package_SO:SSOP-16_3.9x4.9mm_P0.635mm</footprint>
+      <libsource lib="GC Nano Top" part="GL823K-HCY04" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GC Nano Top.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>adde92db-233f-4d59-bd13-c2571b34d5da</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>MAX16054</value>
+      <footprint>Package_TO_SOT_SMD:TSOT-23-6</footprint>
+      <libsource lib="GC Nano Top" part="MAX16054" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GC Nano Top.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>62d43275-1fe5-47bd-8788-b6fb98a79be8</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>PI3USB221AZUAEX</value>
+      <footprint>GC Nano Top:PI3USB221A</footprint>
+      <libsource lib="GC Nano Top" part="PI3USB221AZUAEX" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GC Nano Top.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0e2a086a-e8f6-460a-a6e7-1589313eefae</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="TestPoint">
+      <description>test point</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Pin*</fp>
+        <fp>Test*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">TP</field>
+        <field name="Value">TestPoint</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="USB_C_Receptacle_USB2.0">
+      <description>USB 2.0-only Type-C Receptacle connector</description>
+      <docs>https://www.usb.org/sites/default/files/documents/usb_type-c.zip</docs>
+      <footprints>
+        <fp>USB*C*Receptacle*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">USB_C_Receptacle_USB2.0</field>
+        <field name="Datasheet">https://www.usb.org/sites/default/files/documents/usb_type-c.zip</field>
+      </fields>
+      <pins>
+        <pin num="A1" name="GND" type="passive"/>
+        <pin num="A4" name="VBUS" type="passive"/>
+        <pin num="A5" name="CC1" type="bidirectional"/>
+        <pin num="A6" name="D+" type="bidirectional"/>
+        <pin num="A7" name="D-" type="bidirectional"/>
+        <pin num="A8" name="SBU1" type="bidirectional"/>
+        <pin num="A9" name="VBUS" type="passive"/>
+        <pin num="A12" name="GND" type="passive"/>
+        <pin num="B1" name="GND" type="passive"/>
+        <pin num="B4" name="VBUS" type="passive"/>
+        <pin num="B5" name="CC2" type="bidirectional"/>
+        <pin num="B6" name="D+" type="bidirectional"/>
+        <pin num="B7" name="D-" type="bidirectional"/>
+        <pin num="B8" name="SBU2" type="bidirectional"/>
+        <pin num="B9" name="VBUS" type="passive"/>
+        <pin num="B12" name="GND" type="passive"/>
+        <pin num="S1" name="SHIELD" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="GC Nano Top" part="GL823K-HCY04">
+      <fields>
+        <field name="Reference">U2</field>
+        <field name="Value">GL823K-HCY04</field>
+        <field name="Footprint">Package_SO:SSOP-16_3.9x4.9mm_P0.635mm</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VSS" type="input"/>
+        <pin num="2" name="D1" type="input"/>
+        <pin num="3" name="D0" type="input"/>
+        <pin num="4" name="CLK" type="input"/>
+        <pin num="5" name="CMD" type="input"/>
+        <pin num="6" name="D3" type="input"/>
+        <pin num="7" name="D2" type="input"/>
+        <pin num="8" name="PMOS" type="input"/>
+        <pin num="9" name="VDD" type="input"/>
+        <pin num="10" name="5V" type="input"/>
+        <pin num="11" name="GPIO" type="input"/>
+        <pin num="12" name="LED" type="input"/>
+        <pin num="13" name="VDDA" type="input"/>
+        <pin num="14" name="VSS" type="input"/>
+        <pin num="15" name="DP" type="input"/>
+        <pin num="16" name="DM" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="GC Nano Top" part="MAX16054">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">MAX16054</field>
+      </fields>
+      <pins>
+        <pin num="1" name="IN" type="input"/>
+        <pin num="2" name="GND" type="input"/>
+        <pin num="3" name="CLEAR" type="input"/>
+        <pin num="4" name="~{OUT}" type="input"/>
+        <pin num="5" name="OUT" type="input"/>
+        <pin num="6" name="VCC" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="GC Nano Top" part="PI3USB221AZUAEX">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">PI3USB221AZUAEX</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1D+" type="input"/>
+        <pin num="2" name="1D-" type="input"/>
+        <pin num="3" name="2D+" type="input"/>
+        <pin num="4" name="2D-" type="input"/>
+        <pin num="5" name="GND" type="input"/>
+        <pin num="6" name="~{OE" type="input"/>
+        <pin num="7" name="D-" type="input"/>
+        <pin num="8" name="D+" type="input"/>
+        <pin num="9" name="S" type="input"/>
+        <pin num="10" name="VDD" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="GC Nano Top" part="PMPB17EP">
+      <description>P-MOSFET transistor, gate/source/drain</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">PMPB17EP</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="D" type="passive"/>
+        <pin num="2" name="D" type="passive"/>
+        <pin num="3" name="G" type="input"/>
+        <pin num="4" name="S" type="passive"/>
+        <pin num="5" name="D" type="passive"/>
+        <pin num="6" name="D" type="passive"/>
+        <pin num="7" name="D" type="passive"/>
+        <pin num="8" name="S" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MEM2075-00-140-01-A" part="MEM2075-00-140-01-A">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">MEM2075-00-140-01-A</field>
+        <field name="Footprint">GCT_MEM2075-00-140-01-A</field>
+        <field name="MANUFACTURER">GCT</field>
+        <field name="PARTREV">A</field>
+        <field name="STANDARD">Manufacturer recommendations</field>
+      </fields>
+      <pins>
+        <pin num="P1" name="DAT2" type="bidirectional"/>
+        <pin num="P2" name="CD/DAT3" type="bidirectional"/>
+        <pin num="P3" name="CMD" type="bidirectional"/>
+        <pin num="P4" name="VDD" type="power_in"/>
+        <pin num="P5" name="CLK" type="bidirectional"/>
+        <pin num="P6" name="VSS" type="power_in"/>
+        <pin num="P7" name="DAT0" type="bidirectional"/>
+        <pin num="P8" name="DAT1" type="bidirectional"/>
+        <pin num="P9" name="CD" type="passive"/>
+        <pin num="SH1" name="SHIELD" type="power_in"/>
+        <pin num="SH2" name="SHIELD" type="power_in"/>
+        <pin num="SH3" name="SHIELD" type="power_in"/>
+        <pin num="SH4" name="SHIELD" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Switch" part="SW_Push">
+      <description>Push button switch, generic, two pins</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_Push</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="GC Nano Top">
+      <uri>U:\PCB\GC Nano Top/GC Nano Top.kicad_sym</uri>
+    </library>
+    <library logical="MEM2075-00-140-01-A">
+      <uri>C:/Users/Connor/Desktop/MEM2075-00-140-01-A/MEM2075-00-140-01-A.kicad_sym</uri>
+    </library>
+    <library logical="Switch">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Switch.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="3V3">
+      <node ref="SW2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="TP10" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="TP8" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="2" name="3V3_MUX">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="U1" pin="13" pinfunction="VDDA" pintype="input"/>
+      <node ref="U1" pin="9" pinfunction="VDD" pintype="input"/>
+      <node ref="U3" pin="10" pinfunction="VDD" pintype="input"/>
+    </net>
+    <net code="3" name="5V_IN">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="J1" pin="A4" pinfunction="VBUS" pintype="passive"/>
+      <node ref="J1" pin="A9" pinfunction="VBUS" pintype="passive"/>
+      <node ref="J1" pin="B4" pinfunction="VBUS" pintype="passive"/>
+      <node ref="J1" pin="B9" pinfunction="VBUS" pintype="passive"/>
+      <node ref="Q1" pin="4" pinfunction="S" pintype="passive"/>
+      <node ref="Q1" pin="8" pinfunction="S" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="U1" pin="10" pinfunction="5V" pintype="input"/>
+      <node ref="U2" pin="6" pinfunction="VCC" pintype="input"/>
+    </net>
+    <net code="4" name="5V_SW">
+      <node ref="Q1" pin="1" pinfunction="D" pintype="passive"/>
+      <node ref="Q1" pin="2" pinfunction="D" pintype="passive"/>
+      <node ref="Q1" pin="5" pinfunction="D" pintype="passive"/>
+      <node ref="Q1" pin="6" pinfunction="D" pintype="passive"/>
+      <node ref="Q1" pin="7" pinfunction="D" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="TP2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="TP7" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U3" pin="9" pinfunction="S" pintype="input"/>
+    </net>
+    <net code="5" name="CLK">
+      <node ref="J2" pin="P5" pinfunction="CLK" pintype="bidirectional"/>
+      <node ref="U1" pin="4" pinfunction="CLK" pintype="input"/>
+    </net>
+    <net code="6" name="CMD">
+      <node ref="J2" pin="P3" pinfunction="CMD" pintype="bidirectional"/>
+      <node ref="U1" pin="5" pinfunction="CMD" pintype="input"/>
+    </net>
+    <net code="7" name="D+">
+      <node ref="U1" pin="15" pinfunction="DP" pintype="input"/>
+      <node ref="U3" pin="8" pinfunction="D+" pintype="input"/>
+    </net>
+    <net code="8" name="D+C">
+      <node ref="J1" pin="A6" pinfunction="D+" pintype="bidirectional"/>
+      <node ref="J1" pin="B6" pinfunction="D+" pintype="bidirectional"/>
+      <node ref="U3" pin="1" pinfunction="1D+" pintype="input"/>
+    </net>
+    <net code="9" name="D-">
+      <node ref="U1" pin="16" pinfunction="DM" pintype="input"/>
+      <node ref="U3" pin="7" pinfunction="D-" pintype="input"/>
+    </net>
+    <net code="10" name="D-C">
+      <node ref="J1" pin="A7" pinfunction="D-" pintype="bidirectional"/>
+      <node ref="J1" pin="B7" pinfunction="D-" pintype="bidirectional"/>
+      <node ref="U3" pin="2" pinfunction="1D-" pintype="input"/>
+    </net>
+    <net code="11" name="D0">
+      <node ref="J2" pin="P7" pinfunction="DAT0" pintype="bidirectional"/>
+      <node ref="U1" pin="3" pinfunction="D0" pintype="input"/>
+    </net>
+    <net code="12" name="D1">
+      <node ref="J2" pin="P8" pinfunction="DAT1" pintype="bidirectional"/>
+      <node ref="U1" pin="2" pinfunction="D1" pintype="input"/>
+    </net>
+    <net code="13" name="D2">
+      <node ref="J2" pin="P1" pinfunction="DAT2" pintype="bidirectional"/>
+      <node ref="U1" pin="7" pinfunction="D2" pintype="input"/>
+    </net>
+    <net code="14" name="D3">
+      <node ref="J2" pin="P2" pinfunction="CD/DAT3" pintype="bidirectional"/>
+      <node ref="U1" pin="6" pinfunction="D3" pintype="input"/>
+    </net>
+    <net code="15" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J1" pin="A1" pinfunction="GND" pintype="passive"/>
+      <node ref="J1" pin="A12" pinfunction="GND" pintype="passive"/>
+      <node ref="J1" pin="B1" pinfunction="GND" pintype="passive"/>
+      <node ref="J1" pin="B12" pinfunction="GND" pintype="passive"/>
+      <node ref="J1" pin="S1" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J2" pin="P6" pinfunction="VSS" pintype="power_in"/>
+      <node ref="J2" pin="SH1" pinfunction="SHIELD" pintype="power_in"/>
+      <node ref="J2" pin="SH2" pinfunction="SHIELD" pintype="power_in"/>
+      <node ref="J2" pin="SH3" pinfunction="SHIELD" pintype="power_in"/>
+      <node ref="J2" pin="SH4" pinfunction="SHIELD" pintype="power_in"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="SW1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="TP1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="TP11" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="TP9" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="VSS" pintype="input"/>
+      <node ref="U1" pin="14" pinfunction="VSS" pintype="input"/>
+      <node ref="U2" pin="2" pinfunction="GND" pintype="input"/>
+      <node ref="U2" pin="3" pinfunction="CLEAR" pintype="input"/>
+      <node ref="U3" pin="5" pinfunction="GND" pintype="input"/>
+      <node ref="U3" pin="6" pinfunction="~{OE" pintype="input"/>
+    </net>
+    <net code="16" name="Net-(D1-Pad2)">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+    </net>
+    <net code="17" name="Net-(D2-Pad2)">
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+    </net>
+    <net code="18" name="Net-(J1-PadA5)">
+      <node ref="J1" pin="A5" pinfunction="CC1" pintype="bidirectional"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+    </net>
+    <net code="19" name="Net-(J1-PadB5)">
+      <node ref="J1" pin="B5" pinfunction="CC2" pintype="bidirectional"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+    </net>
+    <net code="20" name="Net-(R3-Pad1)">
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="U1" pin="12" pinfunction="LED" pintype="input"/>
+    </net>
+    <net code="21" name="Net-(SW1-Pad2)">
+      <node ref="SW1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U2" pin="1" pinfunction="IN" pintype="input"/>
+    </net>
+    <net code="22" name="Net-(SW2-Pad2)">
+      <node ref="SW2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="TP5" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="23" name="Net-(SW3-Pad2)">
+      <node ref="SW3" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="TP6" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="24" name="Net-(TP3-Pad1)">
+      <node ref="TP3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U3" pin="3" pinfunction="2D+" pintype="input"/>
+    </net>
+    <net code="25" name="Net-(TP4-Pad1)">
+      <node ref="TP4" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U3" pin="4" pinfunction="2D-" pintype="input"/>
+    </net>
+    <net code="26" name="SD_PMOS">
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="J2" pin="P4" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U1" pin="8" pinfunction="PMOS" pintype="input"/>
+    </net>
+    <net code="27" name="unconnected-(J1-PadA8)">
+      <node ref="J1" pin="A8" pinfunction="SBU1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="28" name="unconnected-(J1-PadB8)">
+      <node ref="J1" pin="B8" pinfunction="SBU2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="29" name="unconnected-(J2-PadP9)">
+      <node ref="J2" pin="P9" pinfunction="CD" pintype="passive+no_connect"/>
+    </net>
+    <net code="30" name="unconnected-(U1-Pad11)">
+      <node ref="U1" pin="11" pinfunction="GPIO" pintype="input+no_connect"/>
+    </net>
+    <net code="31" name="unconnected-(U2-Pad5)">
+      <node ref="U2" pin="5" pinfunction="OUT" pintype="input+no_connect"/>
+    </net>
+    <net code="32" name="~{OUT}">
+      <node ref="Q1" pin="3" pinfunction="G" pintype="input"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="U2" pin="4" pinfunction="~{OUT}" pintype="input"/>
+    </net>
+  </nets>
+</export>
